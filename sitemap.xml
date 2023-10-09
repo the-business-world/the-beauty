@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://the-beauty.onrender.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://the-beauty.onrender.com/</loc>
+</url>
+<url>
+<loc>https://the-beauty.onrender.com/common-web-development-languages/</loc>
+<lastmod>2023-10-09T17:55:32+03:00</lastmod>
+<image:image>
+<image:loc>https://the-beauty.onrender.com/media/posts/4/common-web-development-languages.jpg</image:loc>
+<image:title><![CDATA[Common Web Development Languages and Their Uses]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://the-beauty.onrender.com/content-marketing-metrics/</loc>
+<lastmod>2023-10-09T17:47:14+03:00</lastmod>
+<image:image>
+<image:loc>https://the-beauty.onrender.com/media/posts/3/content-marketing-metrics.jpg</image:loc>
+<image:title><![CDATA[Content Marketing Metrics: Key Performance Indicators (KPIs) to Measure Success]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://the-beauty.onrender.com/creating-a-winning-social-media-strategy/</loc>
+<lastmod>2023-10-09T17:27:14+03:00</lastmod>
+<image:image>
+<image:loc>https://the-beauty.onrender.com/media/posts/1/creating-social-media-strategy-1.jpg</image:loc>
+<image:title><![CDATA[Creating a Winning Social Media Strategy]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://the-beauty.onrender.com/how-could-you-measure-the-success-of-seo-strategy/</loc>
+<lastmod>2023-10-09T17:35:15+03:00</lastmod>
+<image:image>
+<image:loc>https://the-beauty.onrender.com/media/posts/2/measure-the-success-of-SEO-strategy.jpg</image:loc>
+<image:title><![CDATA[How could you measure the success of SEO strategy?]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://the-beauty.onrender.com/maximizing-roi/</loc>
+<lastmod>2023-10-09T18:03:34+03:00</lastmod>
+<image:image>
+<image:loc>https://the-beauty.onrender.com/media/posts/5/maximizing-roi.jpg</image:loc>
+<image:title><![CDATA[Maximizing ROI: Effective Strategies for Conversion Rate Optimization]]></image:title>
+</image:image>
+</url>
+</urlset>
